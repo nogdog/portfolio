@@ -1,2 +1,3 @@
-img/full/*
-img/small/*
+img/full/*.jpg
+img/small/*.jpg
+.DS_Store
