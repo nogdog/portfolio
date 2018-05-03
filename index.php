@@ -1,9 +1,10 @@
 <?php
 error_reporting(E_ALL);
 require_once('./resize.php');
-?><DOCTYPE html>
-<html>
+?><!DOCTYPE html>
+<html lang="en">
 <head>
+<title>Photo Portfolio</title>
 <link rel="stylesheet" type="text/css" href="/style.css"/>
 </head>
 <body>
