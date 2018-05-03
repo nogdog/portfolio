@@ -1,0 +1,1 @@
+Store your full-size image files here with a ".jpg" extension.
